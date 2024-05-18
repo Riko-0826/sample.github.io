@@ -78,7 +78,7 @@ img{max-width: 100%;}
     background-position: center top;
 }
 #home {
-    background-image:url(image/home.png);
+    background-image:url(https://github.com/Riko-0826/sample.github.io/blob/main/home.png?raw=true);
     min-height: 100vh;
 }
 #home .page-title{
@@ -86,7 +86,7 @@ img{max-width: 100%;}
 }
 /* NEWS*/
 #news {
-background-image: url(image/coffee02.png);
+background-image: url(https://github.com/Riko-0826/sample.github.io/blob/main/coffee02.png?raw=true);
 height: 260px;
 margin-bottom: 40px;
 }
@@ -270,7 +270,7 @@ aside p {
 
  /* MENU*/
  #menu {
-    background-image: url(image/menu.jpg) ;
+    background-image: url(https://github.com/Riko-0826/sample.github.io/blob/main/menu.jpg?raw=true) ;
     min-height: 100vh;
 
  }
@@ -303,7 +303,7 @@ body{
 
 /* Contact*/
 #contact {
-    background-image: url(image/shop13.jpg);
+    background-image: url(https://github.com/Riko-0826/sample.github.io/blob/main/shop13.jpg?raw=true);
     min-height: 100vh;
    
 }
