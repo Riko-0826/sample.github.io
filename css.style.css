@@ -187,7 +187,7 @@ aside p {
 }
 
 /* モバイル版*/
-@media (max-width:600px) {
+@media (max-width:800px) {
     .page-title { font-size: 2.5rem;}
     .page-header {
         flex-direction: column;
