@@ -295,7 +295,7 @@ aside p {
     gap :26px;
     grid-template-columns: repeat(auto-fit,minmax(240px,1fr)) ;
     margin-top: 6%;
-    margin-bottom: 50%;
+    margin-bottom: 50px;
  }
 body{
     margin: auto 50px;
